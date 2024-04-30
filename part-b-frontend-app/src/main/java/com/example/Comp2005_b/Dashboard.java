@@ -5,9 +5,7 @@ package com.example.Comp2005_b;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-import com.example.Comp2005.part_a_web_service_api.*;
-import com.example.Comp2005.part_a_web_service_api.AppConfig;
-import com.example.Comp2005.part_a_web_service_api.maternityAPIService;
+import com.example.Comp2005_b.Models.*;
 import com.example.Comp2005_b.Models.CustomTextField;
 import com.example.Comp2005_b.Models.ModelTable;
 import org.springframework.web.client.RestTemplate;

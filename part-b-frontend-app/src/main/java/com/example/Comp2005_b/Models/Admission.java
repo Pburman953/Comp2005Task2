@@ -1,4 +1,8 @@
-package com.example.Comp2005_a;
+package com.example.Comp2005_b.Models;
+
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -54,3 +58,5 @@ public class Admission {
         this.patientID = patientID;
     }
 }
+
+

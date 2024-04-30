@@ -1,5 +1,9 @@
 package com.example.Comp2005_a;
 
+import com.example.Comp2005_a.Models.Admission;
+import com.example.Comp2005_a.Models.Allocation;
+import com.example.Comp2005_a.Models.Employee;
+import com.example.Comp2005_a.Models.Patient;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

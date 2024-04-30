@@ -1,5 +1,8 @@
 package com.example.Comp2005_a;
 
+import com.example.Comp2005_a.Models.Admission;
+import com.example.Comp2005_a.Models.Employee;
+import com.example.Comp2005_a.Models.Patient;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;

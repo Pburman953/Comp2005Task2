@@ -1,4 +1,4 @@
-package com.example.Comp2005_a;
+package com.example.Comp2005_a.Models;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

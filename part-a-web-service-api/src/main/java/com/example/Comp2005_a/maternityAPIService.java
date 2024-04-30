@@ -1,5 +1,9 @@
 package com.example.Comp2005_a;
 
+import com.example.Comp2005_a.Models.Admission;
+import com.example.Comp2005_a.Models.Allocation;
+import com.example.Comp2005_a.Models.Employee;
+import com.example.Comp2005_a.Models.Patient;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
